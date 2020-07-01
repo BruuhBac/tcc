@@ -1,0 +1,83 @@
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+.top {
+	
+    background: #eaf5e4; 
+}
+.mid {
+	
+    background: ##3bc72c; 
+}
+.login-page {
+  width: 360px;
+  background: #FFFFF;
+  padding: 8% 0 0;
+  margin: auto;
+}
+.form {
+  position: relative;
+  z-index: 1;
+  max-width: 390px;
+  margin: 5 auto 10px;
+  padding: 45px;
+  text-align: right;
+  
+}
+.form input {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.form button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 5;
+  background: #fffff;
+  width: 50%;
+  border: 0;
+  padding: 10px;
+  color: #080808;
+  font-size: 15px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+}
+
+.verde {
+	
+    background-image:
+                    linear-gradient(#b2e396, #76b551 100%),
+                    linear-gradient(#b2e396, #76b551 100%);
+ 
+    background-size: 200% 200%;
+    background-position: top right, top left, bottom right, bottom left;
+    background-repeat: no-repeat;
+}
+ 
+ 
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;      
+}
+
+.grid-template-columns-1 {
+	grid-template-columns: 100px 100px 100px 100px;
+}
+
+
+.lenco
+{
+  margin-left: 760px;
+}
+
+.osso
+{
+  margin-left: 430px;
+}
